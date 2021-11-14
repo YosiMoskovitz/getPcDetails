@@ -1,0 +1,46 @@
+C:\Users\05276\onedrive\מסמכים\visual studio 2015\Projects\FakeVirus\FakeVirus\obj\Debug\FakeVirus.csprojResolveAssemblyReference.cache
+C:\Users\05276\onedrive\מסמכים\visual studio 2015\Projects\FakeVirus\FakeVirus\obj\Debug\FakeVirus.Form1.resources
+C:\Users\05276\onedrive\מסמכים\visual studio 2015\Projects\FakeVirus\FakeVirus\obj\Debug\FakeVirus.Properties.Resources.resources
+C:\Users\05276\onedrive\מסמכים\visual studio 2015\Projects\FakeVirus\FakeVirus\obj\Debug\FakeVirus.csproj.GenerateResource.Cache
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\bin\Debug\OSVersionInfo.dll
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\bin\Debug\OSVersionInfo.pdb
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\obj\Debug\FakeVirus.AboutBox1.resources
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\bin\Debug\new program.exe.config
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\bin\Debug\new program.exe
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\bin\Debug\new program.pdb
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\obj\Debug\new program.exe
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\obj\Debug\new program.pdb
+C:\Users\05276\Desktop\new program.exe.config
+C:\Users\05276\Desktop\new program.exe
+C:\Users\05276\Desktop\new program.pdb
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\bin\Debug\aa\new program.resources.dll
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\bin\Debug\he\new program.resources.dll
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\obj\Debug\FakeVirus.Form1.aa.resources
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\obj\Debug\FakeVirus.Form1.he.resources
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\obj\Debug\aa\new program.resources.dll
+C:\Users\05276\OneDrive\מסמכים\Visual Studio 2015\Projects\FakeVirus\FakeVirus\obj\Debug\he\new program.resources.dll
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\FakeVirus.AboutBox1.resources
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\FakeVirus.Form1.resources
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\FakeVirus.Form1.aa.resources
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\FakeVirus.Form1.he.resources
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\FakeVirus.csproj.GenerateResource.cache
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\FakeVirus.csproj.CoreCompileInputs.cache
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\FakeVirus.csproj.CopyComplete
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\bin\Debug\GetPcDetails.exe.config
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\bin\Debug\GetPcDetails.exe.manifest
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\bin\Debug\GetPcDetails.application
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\bin\Debug\GetPcDetails.exe
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\bin\Debug\GetPcDetails.pdb
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\bin\Debug\aa\GetPcDetails.resources.dll
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\bin\Debug\he\GetPcDetails.resources.dll
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\aa\GetPcDetails.resources.dll
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\he\GetPcDetails.resources.dll
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\GetPcDetails.exe.manifest
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\GetPcDetails.application
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\GetPcDetails.exe
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\GetPcDetails.pdb
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\GetPcDetails.Properties.Resources.resources
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\FakeVirus.csproj.AssemblyReference.cache
+C:\Users\office\Dropbox\FakeVirus\FakeVirus\obj\Debug\FakeVirus.csproj.SuggestedBindingRedirects.cache
